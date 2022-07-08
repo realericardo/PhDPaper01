@@ -1,6 +1,6 @@
 # PhDPaper01
-Paper: "Ecosystem services as a ballast to guide sustained 1 economic growth by biodiversity conservation actions"
 Journal of Cleaner Production, Volume 358, 15 July 2022, 131846
+Paper: "Ecosystem services as a ballast to guide sustained 1 economic growth by biodiversity conservation actions"
 DOI: https://doi.org/10.1016/j.jclepro.2022.131846
 
 Highlights:
